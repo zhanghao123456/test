@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>A4573E31-E020-4629-8549-5C335750E757</string>
+=======
+	<string>2431862A-A2CD-4791-ACC8-BD5AE59EC311</string>
+>>>>>>> b1cc2ce2f3a95e02c9494ff4a97a4b48f3f7c5fc
 	<key>IDESourceControlProjectName</key>
 	<string>LearningGit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +38,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>B28065F81219E338CCA900139E235438453FC678</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>LearningGit</string>
+=======
+			<string>test</string>
+>>>>>>> b1cc2ce2f3a95e02c9494ff4a97a4b48f3f7c5fc
 		</dict>
 	</array>
 </dict>
