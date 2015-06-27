@@ -23,6 +23,12 @@
     return YES;
 }
 
+- (void)test1
+{
+    
+}
+
+
 -(void)test
 {
     
