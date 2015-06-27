@@ -22,6 +22,8 @@
     NSLog(@"test");
     NSLog(@"test");
     NSLog(@"test");
+    NSLog(@"test");
+    NSLog(@"test");
     return YES;
 }
 
